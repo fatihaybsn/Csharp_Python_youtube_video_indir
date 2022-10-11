@@ -1,0 +1,5 @@
+E:\Projeler\YoutubeVideoİndir\publish\proje1.exe
+E:\Projeler\YoutubeVideoİndir\publish\proje1.dll
+E:\Projeler\YoutubeVideoİndir\publish\proje1.deps.json
+E:\Projeler\YoutubeVideoİndir\publish\proje1.runtimeconfig.json
+E:\Projeler\YoutubeVideoİndir\publish\proje1.pdb

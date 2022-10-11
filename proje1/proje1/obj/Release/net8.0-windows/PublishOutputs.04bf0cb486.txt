@@ -1,0 +1,5 @@
+C:\Users\Fatih\Desktop\Yeni\proje1.exe
+C:\Users\Fatih\Desktop\Yeni\proje1.dll
+C:\Users\Fatih\Desktop\Yeni\proje1.deps.json
+C:\Users\Fatih\Desktop\Yeni\proje1.runtimeconfig.json
+C:\Users\Fatih\Desktop\Yeni\proje1.pdb

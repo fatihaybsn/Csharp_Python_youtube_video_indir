@@ -1,0 +1,8 @@
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\proje1.YouTube.resources
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\YouTubeVideoİndir.Properties.Resources.resources
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\YouTubeVideoİndir.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\YouTubeVideoİndir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\YouTubeVideoİndir.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\YouTubeVideoİndir.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\YouTubeVideoİndir.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\İndirme\proje1\proje1\obj\Release\net8.0-windows\YouTubeVideoİndir.YouTube.resources
